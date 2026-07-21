@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/sailekkala2006_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sailekkala2006&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailekkala2006&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sailekkala2006&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -68,18 +68,18 @@
 
 I create ECET preparation and career guidance content for diploma & engineering students in Andhra Pradesh under **CodingChampsSai**.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DiplomaTribe)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodingChampsSai)
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lekkala-sai-prasad-reddy-36b23b2b2/details/skills/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lekkala-sai-prasad-reddy-36b23b2b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lekkalasaiprasadreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://youtube.com/@CodingChampsSai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sailekkala2006&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
