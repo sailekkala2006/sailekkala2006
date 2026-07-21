@@ -23,48 +23,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
 
-## 🧠 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```yaml
-name: "Lekkala Sai Prasad Reddy"
-role: "AI/ML Engineer & Full Stack Developer"
-education: "B.Tech CSE (AI & ML), SVCE Tirupati — CGPA 8.2"
-status: "Actively seeking AI/ML & SDE Internship roles"
-location: "Andhra Pradesh, India"
-goal: "Building impactful AI products & contributing to open source"
-
-currently:
-  - 🔭 Building production-grade AI-powered web applications
-  - 🧩 Strengthening core DSA & problem solving
-  - ☁️  Learning Cloud & DevOps fundamentals
-  - 🌱 Exploring Generative AI & prompt engineering
-  - 🎥 Creating educational content for 1,800+ students
-
-fun_fact: "Discovered and reported a CMS security 
-           vulnerability during my internship"
-```
-
-</td>
-<td width="40%" valign="top">
-
-**⚡ Quick Facts**
-
-- 🎓 CSE (AI & ML), SVCE Tirupati
-- 💼 Web Dev Intern @ InAmigos Foundation
-- 🏆 GDG Hackathon Participant
-- 🎬 Founder, CodingChampsSai (1.8K+ subs)
-- 📍 Andhra Pradesh, India
-- 💬 Ask me about AI/ML, React, Flask
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
 
 ## 💼 Experience
 
@@ -234,13 +193,10 @@ AI-driven educational platform built during internship
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
 
-## 🏆 Trophies
+🏆 Achievements
+🎥 2,000+ Students Reached — CodingChampsSai <br/> Founded and grew an educational YouTube channel for ECET & engineering career guidance.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sailekkala2006&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
+</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
 
 ## 🐍 Contribution Snake
 
