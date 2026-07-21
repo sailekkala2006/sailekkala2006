@@ -83,7 +83,6 @@ College & rank prediction platform for ECET/EAMCET students
 
 - 🎯 College Predictor + Rank Predictor engines
 - 📈 Historical ECET/EAMCET data analysis
-- 👥 Reached **1,800+ students**
 
 </td>
 <td width="50%" valign="top">
@@ -193,20 +192,10 @@ AI-driven educational platform built during internship
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
 
-🏆 Achievements
+## 🏆 Achievements
 🎥 2,000+ Students Reached — CodingChampsSai <br/> Founded and grew an educational YouTube channel for ECET & engineering career guidance.
 
 </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sailekkala2006/sailekkala2006/output/github-contribution-grid-snake-dark.svg"/>
-
-<sub>⚙️ This activates automatically once the <code>snake.yml</code> GitHub Action (setup notes below) runs on your profile repo.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:1a1b27&height=2&width=100%"/>
 
 ## 🎥 Content Creation
 
