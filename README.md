@@ -213,7 +213,7 @@ AI-driven educational platform built during internship
 <div align="center">
 
 ### Founder — **CodingChampsSai**
-Educational content creator helping Diploma & Engineering students across Andhra Pradesh with **ECET preparation, career guidance, and programming fundamentals** — 1,800+ subscribers and growing.
+Educational content creator helping Diploma & Engineering students across Andhra Pradesh with **ECET preparation, career guidance** — 2,000+ subscribers and growing.
 
 <a href="https://youtube.com/@CodingChampsSai"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
